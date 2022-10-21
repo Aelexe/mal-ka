@@ -1,0 +1,7 @@
+## Project
+# Build
+dist/
+
+## Language
+# Javascript/Node
+node_modules/
